@@ -1,5 +1,8 @@
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
+
 from app.api.endpoints.routes import router as delivery_router
 
 import uvicorn
@@ -20,6 +23,10 @@ app.add_middleware(
 app.include_router(delivery_router)
 
 if __name__ == "__main__":
+    # parser = argparse.ArgumentParser(description='FIX Client')
+    # parser.add_argument('-c', '--configfile', default="clientLocal.cfg", help='file to read the config from')
+    # args = parser.parse_args()
+    # main(args.configfile)
     uvicorn.run(
         "api.main:app",
         host="127.0.0.1",
