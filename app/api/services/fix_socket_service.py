@@ -1,22 +1,33 @@
 import argparse
 import quickfix as fix
 
-from api.gateway.broker_gateway import BrokerGatewayApplication
 
-
-def start_socket(order):
+def start_fix_initiator(gateway):
     try:
+        # Parse command line arguments
         parser = argparse.ArgumentParser(description='FIX Client')
         parser.add_argument('-c', '--configfile', default="clientLocal.cfg", help='file to read the config from')
         args = parser.parse_args()
+
+        # Load session settings from configuration file
         settings = fix.SessionSettings(args.configfile)
-        application = BrokerGatewayApplication()
+
+        # Create store and log factories
         storeFactory = fix.FileStoreFactory(settings)
         logFactory = fix.FileLogFactory(settings)
-        initiator = fix.SocketInitiator(application, storeFactory, settings, logFactory)
+
+        # Create and start the initiator
+        initiator = fix.SocketInitiator(gateway, storeFactory, settings, logFactory)
         initiator.start()
-        response = application.put_new_order(order)
+
+        return initiator
+    except fix.ConfigError as e:
+        print(e)
+
+
+def stop_fix_initiator(initiator):
+    try:
+        # Stop the initiator
         initiator.stop()
-        return response
     except fix.ConfigError as e:
         print(e)
