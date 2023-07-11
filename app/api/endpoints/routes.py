@@ -1,4 +1,5 @@
 import logging
+import os
 
 from fastapi import APIRouter, HTTPException
 
@@ -12,6 +13,9 @@ gateway = BrokerGatewayApplication()
 
 initiator = None
 configfile = "clientLocal.cfg"
+
+if "DYNO" in os.environ:  # Checking if The app is running on Heroku
+    configfile = os.path.join(os.getcwd(), configfile)
 
 
 @router.on_event("startup")
