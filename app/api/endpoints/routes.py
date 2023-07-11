@@ -11,12 +11,13 @@ router = APIRouter()
 gateway = BrokerGatewayApplication()
 
 initiator = None
+configfile = "clientLocal.cfg"
 
 
 @router.on_event("startup")
 def startup_event():
     global initiator
-    initiator = start_fix_initiator(gateway)
+    initiator = start_fix_initiator(gateway, configfile)
     if initiator is None:
         logging.error("Failed to start FIX initiator")
 

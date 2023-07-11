@@ -25,7 +25,7 @@ try:
     console_handler = logging.StreamHandler()
     console_handler.setLevel(logging.INFO)
 
-    # Create formatters and add it to handlers
+    # Create formatters and add them to handlers
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     file_handler.setFormatter(formatter)
     console_handler.setFormatter(formatter)
@@ -38,15 +38,10 @@ except Exception as e:
     sys.exit(1)
 
 
-def start_fix_initiator(gateway):
+def start_fix_initiator(gateway, configfile):
     try:
-        # Parse command line arguments
-        parser = argparse.ArgumentParser(description='FIX Client')
-        parser.add_argument('-c', '--configfile', default="clientLocal.cfg", help='file to read the config from')
-        args = parser.parse_args()
-
         # Load session settings from configuration file
-        settings = fix.SessionSettings(args.configfile)
+        settings = fix.SessionSettings(configfile)
 
         # Create store and log factories
         storeFactory = fix.FileStoreFactory(settings)

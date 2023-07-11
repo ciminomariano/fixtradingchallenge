@@ -82,8 +82,12 @@ class BrokerGatewayApplication(fix.Application):
             message.setField(fix.OrderQty(order.quantity))  # Order quantity
             message.setField(fix.OrdType(fix.OrdType_MARKET))  # Order type: Market Order
             # Add other relevant fields as per your needs
-
-            response = fix.Session.sendToTarget(message, self.sessionID)
+            try:
+                if self.sessionID:
+                    response = fix.Session.sendToTarget(message, self.sessionID)
+            except AttributeError:
+                default_session_id = fix.SessionID()
+                response = fix.Session.sendToTarget(message, default_session_id)
 
             # Check if the order was successfully sent
             if response:
