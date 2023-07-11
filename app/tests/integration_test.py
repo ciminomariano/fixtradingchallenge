@@ -1,13 +1,12 @@
 from fastapi.testclient import TestClient
 from unittest.mock import MagicMock, patch
-from api.services.fix_socket_service import start_fix_initiator, stop_fix_initiator
-from api.services.order_service import create_order
-from api.main import app
+from app.api.services.order_service import create_order
+from app.api.main import app
 
 
 def test_integration():
     # Mock start_fix_initiator to return a non-None value
-    with patch("api.services.fix_socket_service.start_fix_initiator") as mock_start_fix_initiator:
+    with patch("app.api.services.fix_socket_service.start_fix_initiator") as mock_start_fix_initiator:
         mock_start_fix_initiator.return_value = MagicMock()
 
         # Create a test client

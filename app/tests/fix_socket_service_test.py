@@ -1,5 +1,5 @@
 from unittest.mock import MagicMock, patch
-from api.services.fix_socket_service import start_fix_initiator, stop_fix_initiator
+from app.api.services.fix_socket_service import start_fix_initiator, stop_fix_initiator
 
 
 def test_start_fix_initiator():
@@ -11,10 +11,10 @@ def test_start_fix_initiator():
     initiator = MagicMock()
 
     # Patch the necessary functions
-    with patch("api.services.fix_socket_service.fix.SessionSettings") as mock_SessionSettings, \
-            patch("api.services.fix_socket_service.fix.FileStoreFactory") as mock_FileStoreFactory, \
-            patch("api.services.fix_socket_service.fix.FileLogFactory") as mock_FileLogFactory, \
-            patch("api.services.fix_socket_service.fix.SocketInitiator") as mock_SocketInitiator:
+    with patch("app.api.services.fix_socket_service.fix.SessionSettings") as mock_SessionSettings, \
+            patch("app.api.services.fix_socket_service.fix.FileStoreFactory") as mock_FileStoreFactory, \
+            patch("app.api.services.fix_socket_service.fix.FileLogFactory") as mock_FileLogFactory, \
+            patch("app.api.services.fix_socket_service.fix.SocketInitiator") as mock_SocketInitiator:
         # Configure the mock objects and functions
         mock_SessionSettings.return_value = settings
         mock_FileStoreFactory.return_value = storeFactory

@@ -1,6 +1,6 @@
 
 from fastapi.testclient import TestClient
-from api.main import app
+from app.api.main import app
 
 
 def test_request_quote_no_active_initiator():
