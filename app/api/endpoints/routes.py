@@ -17,12 +17,13 @@ configfile = "clientLocal.cfg"
 if "DYNO" in os.environ:  # Checking if The app is running on Heroku
     configfile = os.path.join(os.getcwd(), configfile)
 
-logging.info(f"Config file path: {configfile}")
+
 
 
 @router.on_event("startup")
 def startup_event():
     global initiator
+    logging.info(f"Config file path: {configfile}")
     initiator = start_fix_initiator(gateway, configfile)
     if initiator is None:
         logging.error("Failed to start FIX initiator")
