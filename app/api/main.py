@@ -8,7 +8,6 @@ import uvicorn
 import os
 
 port = int(os.environ.get("PORT", 8000))
-print(port)
 
 app = FastAPI()
 app.add_middleware(
