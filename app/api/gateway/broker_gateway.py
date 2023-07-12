@@ -45,8 +45,9 @@ class BrokerGatewayApplication(fix.Application):
         print(" toAdmin " + str(message))
         if (message.getHeader().getField(fix.MsgType().getField()) == "A"):
             print(" login Message " + str(sessionID))
-            message.setField(fix.Username("chris"))
-            message.setField(fix.Password("tradermade"))
+            message.setField(fix.TargetSubID("U100D1"))
+            message.setField(fix.Username("D103452324"))
+            message.setField(fix.Password("1234"))
         return
 
     def fromAdmin(self, sessionID, message):
