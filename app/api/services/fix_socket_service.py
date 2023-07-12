@@ -40,7 +40,7 @@ except Exception as e:
 
 def start_fix_initiator(gateway, configfile):
     try:
-        logging.info(f"Config file path: {configfile}")
+        logging.error(f"Config file path de mi archivo: {configfile}")
         # Load session settings from configuration file
         settings = fix.SessionSettings(configfile)
 

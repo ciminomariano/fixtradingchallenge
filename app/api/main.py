@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 
-from app.api.endpoints.routes import router as delivery_router
+from endpoints.routes import router as delivery_router
 
 import uvicorn
 import os
@@ -23,8 +23,8 @@ app.include_router(delivery_router)
 if __name__ == "__main__":
 
     uvicorn.run(
-        "api.main:app",
-        host="127.0.0.1",
+        "app.api.main:app",
+        host="0.0.0.0",
         port=port,
         ssl_keyfile="private.key",
         ssl_certfile="certificate.crt",

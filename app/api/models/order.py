@@ -1,6 +1,6 @@
 from pydantic import BaseModel, Field, validator
 
-from app.api.models.Enums import SymbolType, OrderType
+from models.Enums import SymbolType, OrderType
 
 
 class OrderRequest(BaseModel):

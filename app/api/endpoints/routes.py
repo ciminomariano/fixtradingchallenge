@@ -3,21 +3,17 @@ import os
 
 from fastapi import APIRouter, HTTPException
 
-from app.api.models.order import OrderRequestData
-from app.api.services.fix_socket_service import start_fix_initiator, stop_fix_initiator
-from app.api.services.order_service import create_order
-from app.api.gateway.broker_gateway import BrokerGatewayApplication
+from models.order import OrderRequestData
+from services.fix_socket_service import start_fix_initiator, stop_fix_initiator
+from services.order_service import create_order
+from gateway.broker_gateway import BrokerGatewayApplication
 
 router = APIRouter()
 gateway = BrokerGatewayApplication()
 
 initiator = None
-configfile = "clientLocal.cfg"
 
-if "DYNO" in os.environ:  # Checking if The app is running on Heroku
-    configfile = os.path.join(os.getcwd(), configfile)
-
-
+configfile = os.path.join(os.getcwd(), "clientLocal.cfg")
 
 
 @router.on_event("startup")
