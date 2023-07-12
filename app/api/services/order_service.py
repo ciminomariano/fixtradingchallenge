@@ -1,4 +1,3 @@
-
 def create_order(gateway, order):
     try:
         response = gateway.put_new_order(order)
@@ -6,3 +5,5 @@ def create_order(gateway, order):
 
     except Exception as e:
         return str(e)
+
+
