@@ -1,6 +1,6 @@
 import quickfix as fix
 
-from models.order import OrderRequest
+from app.api.models.order import OrderRequest
 
 ECHO_DEBUG = True
 sessionID = 0
