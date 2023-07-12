@@ -105,7 +105,7 @@ To connect to the FIX API, there are some steps that you must complete. Detailed
 
     
     Technical Documentation Of The Project https://docs.google.com/document/d/1gWr_uH8S1H7mPKS7_m_eqK1KJEOv8UwUHv-81CYSkbQ/edit?usp=sharing
-    Video Tutorial 
+    Video Tutorial   https://drive.google.com/file/d/1dc7JGnoth16pOCraenh3jZBuavZOML_w/view?usp=sharing
     FIX API Documentation https://tradermade.com/docs/fix-api
     FIX Protocol https://www.fixtrading.org/what-is-fix/
 
