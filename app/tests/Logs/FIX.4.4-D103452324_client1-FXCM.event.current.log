@@ -1,0 +1,303 @@
+20230711-13:39:49.410416000 : Created session
+20230711-13:39:49.412746000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:39:49.575464000 : Initiated logon request
+20230711-13:40:24.531163000 : Created session
+20230711-13:40:24.939757000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:40:25.093909000 : Initiated logon request
+20230711-13:40:35.340010000 : Timed out waiting for logon response
+20230711-13:40:35.340082000 : Disconnecting
+20230711-13:40:35.341026000 : Initiated logon request
+20230711-13:40:55.331509000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:40:55.507046000 : Initiated logon request
+20230711-13:41:05.455165000 : Timed out waiting for logon response
+20230711-13:41:05.455232000 : Disconnecting
+20230711-13:41:05.456374000 : Initiated logon request
+20230711-13:41:18.278158000 : Created session
+20230711-13:41:18.280445000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:41:18.450335000 : Initiated logon request
+20230711-13:41:19.339270000 : Socket Error: Bad file descriptor
+20230711-13:41:19.339270000 : Socket Error: Bad file descriptor
+20230711-13:41:19.339343000 : Disconnecting
+20230711-13:42:55.978042000 : Created session
+20230711-13:42:55.982890000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:42:56.141318000 : Initiated logon request
+20230711-13:43:06.061916000 : Timed out waiting for logon response
+20230711-13:43:06.061992000 : Disconnecting
+20230711-13:43:06.063109000 : Initiated logon request
+20230711-13:43:26.005161000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:43:26.158875000 : Initiated logon request
+20230711-13:43:36.453322000 : Timed out waiting for logon response
+20230711-13:43:36.453387000 : Disconnecting
+20230711-13:43:36.454468000 : Initiated logon request
+20230711-13:43:56.019823000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:43:56.173833000 : Initiated logon request
+20230711-13:44:06.118463000 : Timed out waiting for logon response
+20230711-13:44:06.118544000 : Disconnecting
+20230711-13:44:06.119616000 : Initiated logon request
+20230711-13:44:26.198518000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:44:26.349002000 : Initiated logon request
+20230711-13:44:36.001413000 : Timed out waiting for logon response
+20230711-13:44:36.001487000 : Disconnecting
+20230711-13:44:36.002601000 : Initiated logon request
+20230711-13:44:56.084706000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:44:56.242874000 : Initiated logon request
+20230711-13:45:51.853145000 : Created session
+20230711-13:45:51.855656000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:45:52.010665000 : Initiated logon request
+20230711-13:46:02.275339000 : Timed out waiting for logon response
+20230711-13:46:02.275409000 : Disconnecting
+20230711-13:46:02.276409000 : Initiated logon request
+20230711-13:46:30.206848000 : Created session
+20230711-13:46:30.209485000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:46:30.359454000 : Initiated logon request
+20230711-13:47:02.443236000 : Created session
+20230711-13:47:02.446115000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:47:02.603049000 : Initiated logon request
+20230711-13:47:12.220549000 : Timed out waiting for logon response
+20230711-13:47:12.220618000 : Disconnecting
+20230711-13:47:12.221628000 : Initiated logon request
+20230711-13:51:55.208859000 : Created session
+20230711-13:51:55.211207000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:51:55.481246000 : Initiated logon request
+20230711-13:53:23.748934000 : Created session
+20230711-13:53:23.751379000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:53:23.902538000 : Initiated logon request
+20230711-13:53:33.388136000 : Timed out waiting for logon response
+20230711-13:53:33.388210000 : Disconnecting
+20230711-13:53:33.389544000 : Initiated logon request
+20230711-13:53:53.037429000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:53:53.193391000 : Initiated logon request
+20230711-13:55:15.055924000 : Created session
+20230711-13:55:15.058889000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:55:15.219857000 : Initiated logon request
+20230711-13:55:25.067488000 : Timed out waiting for logon response
+20230711-13:55:25.067534000 : Disconnecting
+20230711-13:55:25.093965000 : Initiated logon request
+20230711-13:56:02.701815000 : Created session
+20230711-13:56:02.704434000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:56:02.862390000 : Initiated logon request
+20230711-13:56:25.823169000 : Created session
+20230711-13:56:25.825623000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:56:25.973902000 : Initiated logon request
+20230711-13:56:35.494961000 : Timed out waiting for logon response
+20230711-13:56:35.495031000 : Disconnecting
+20230711-13:56:35.496031000 : Initiated logon request
+20230711-13:56:55.026744000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:56:55.181353000 : Initiated logon request
+20230711-13:57:05.626461000 : Timed out waiting for logon response
+20230711-13:57:05.626532000 : Disconnecting
+20230711-13:57:05.627508000 : Initiated logon request
+20230711-13:57:25.149304000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:57:25.307071000 : Initiated logon request
+20230711-13:57:35.382406000 : Timed out waiting for logon response
+20230711-13:57:35.382476000 : Disconnecting
+20230711-13:57:35.383432000 : Initiated logon request
+20230711-13:57:55.168435000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:57:55.325882000 : Initiated logon request
+20230711-13:58:05.035885000 : Timed out waiting for logon response
+20230711-13:58:05.035960000 : Disconnecting
+20230711-13:58:05.037050000 : Initiated logon request
+20230711-13:58:25.410036000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:58:25.564058000 : Initiated logon request
+20230711-13:58:35.210196000 : Timed out waiting for logon response
+20230711-13:58:35.210279000 : Disconnecting
+20230711-13:58:35.211837000 : Initiated logon request
+20230711-13:58:55.664870000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:58:55.815093000 : Initiated logon request
+20230711-13:59:05.269551000 : Timed out waiting for logon response
+20230711-13:59:05.269625000 : Disconnecting
+20230711-13:59:05.270690000 : Initiated logon request
+20230711-13:59:25.385656000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:59:25.556189000 : Initiated logon request
+20230711-13:59:35.106015000 : Timed out waiting for logon response
+20230711-13:59:35.106084000 : Disconnecting
+20230711-13:59:35.107152000 : Initiated logon request
+20230711-13:59:55.150657000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-13:59:55.308125000 : Initiated logon request
+20230711-14:00:05.269290000 : Timed out waiting for logon response
+20230711-14:00:05.269372000 : Disconnecting
+20230711-14:00:05.270535000 : Initiated logon request
+20230711-14:01:29.506676000 : Created session
+20230711-14:01:29.509260000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:01:29.669427000 : Initiated logon request
+20230711-14:01:39.120430000 : Timed out waiting for logon response
+20230711-14:01:39.120507000 : Disconnecting
+20230711-14:01:39.121642000 : Initiated logon request
+20230711-14:01:59.658910000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:01:59.818366000 : Initiated logon request
+20230711-14:02:09.802180000 : Timed out waiting for logon response
+20230711-14:02:09.802227000 : Disconnecting
+20230711-14:02:09.828606000 : Initiated logon request
+20230711-14:03:21.750164000 : Created session
+20230711-14:03:21.752878000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:03:21.930462000 : Initiated logon request
+20230711-14:04:05.089272000 : Created session
+20230711-14:04:05.091639000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:04:05.260372000 : Initiated logon request
+20230711-14:10:25.995371000 : Created session
+20230711-14:10:25.999391000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:10:26.153391000 : Initiated logon request
+20230711-14:10:36.193643000 : Timed out waiting for logon response
+20230711-14:10:36.193716000 : Disconnecting
+20230711-14:10:36.194894000 : Initiated logon request
+20230711-14:28:06.960542000 : Created session
+20230711-14:28:06.963219000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-14:30:22.588955000 : Created session
+20230711-14:30:22.591303000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:09:52.581403000 : Created session
+20230711-15:09:52.583740000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:09:52.736634000 : Initiated logon request
+20230711-15:10:27.799380000 : Created session
+20230711-15:10:27.801824000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:10:27.960519000 : Initiated logon request
+20230711-15:11:52.045935000 : Created session
+20230711-15:11:52.048977000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:11:52.215576000 : Initiated logon request
+20230711-15:12:02.431310000 : Timed out waiting for logon response
+20230711-15:12:02.431358000 : Disconnecting
+20230711-15:12:02.432297000 : Initiated logon request
+20230711-15:12:22.550925000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:12:22.703569000 : Initiated logon request
+20230711-15:12:32.696293000 : Timed out waiting for logon response
+20230711-15:12:32.696368000 : Disconnecting
+20230711-15:12:32.697743000 : Initiated logon request
+20230711-15:12:52.143119000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:12:52.296333000 : Initiated logon request
+20230711-15:13:02.541608000 : Timed out waiting for logon response
+20230711-15:13:02.541682000 : Disconnecting
+20230711-15:13:02.542775000 : Initiated logon request
+20230711-15:13:22.055907000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:13:22.207094000 : Initiated logon request
+20230711-15:13:32.035153000 : Timed out waiting for logon response
+20230711-15:13:32.035216000 : Disconnecting
+20230711-15:13:32.036268000 : Initiated logon request
+20230711-15:13:52.393163000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:13:52.551119000 : Initiated logon request
+20230711-15:14:02.204779000 : Timed out waiting for logon response
+20230711-15:14:02.204870000 : Disconnecting
+20230711-15:14:02.205954000 : Initiated logon request
+20230711-15:14:22.550537000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:14:22.703440000 : Initiated logon request
+20230711-15:14:32.161325000 : Timed out waiting for logon response
+20230711-15:14:32.161391000 : Disconnecting
+20230711-15:14:32.162862000 : Initiated logon request
+20230711-15:14:52.660132000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:14:52.818197000 : Initiated logon request
+20230711-15:15:02.116499000 : Timed out waiting for logon response
+20230711-15:15:02.116576000 : Disconnecting
+20230711-15:15:02.117655000 : Initiated logon request
+20230711-15:15:22.939834000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:15:23.099196000 : Initiated logon request
+20230711-15:15:33.624613000 : Timed out waiting for logon response
+20230711-15:15:33.624697000 : Disconnecting
+20230711-15:15:33.626172000 : Initiated logon request
+20230711-15:15:52.105125000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:15:52.265049000 : Initiated logon request
+20230711-15:16:02.665056000 : Timed out waiting for logon response
+20230711-15:16:02.665127000 : Disconnecting
+20230711-15:16:02.666225000 : Initiated logon request
+20230711-15:16:38.262508000 : Created session
+20230711-15:16:38.265007000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:16:38.419363000 : Initiated logon request
+20230711-15:16:48.883690000 : Timed out waiting for logon response
+20230711-15:16:48.883753000 : Disconnecting
+20230711-15:16:48.936085000 : Initiated logon request
+20230711-15:17:18.902543000 : Created session
+20230711-15:17:18.905322000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:17:19.069527000 : Initiated logon request
+20230711-15:17:29.948517000 : Timed out waiting for logon response
+20230711-15:17:29.948569000 : Disconnecting
+20230711-15:17:29.980722000 : Initiated logon request
+20230711-15:17:55.152513000 : Created session
+20230711-15:17:55.155226000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:17:55.315952000 : Initiated logon request
+20230711-15:18:05.210158000 : Timed out waiting for logon response
+20230711-15:18:05.210206000 : Disconnecting
+20230711-15:18:05.246843000 : Initiated logon request
+20230711-15:20:05.252754000 : Created session
+20230711-15:20:05.255173000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:20:05.428059000 : Initiated logon request
+20230711-15:22:41.249091000 : Created session
+20230711-15:22:41.251535000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:22:41.427388000 : Initiated logon request
+20230711-15:23:11.034512000 : Created session
+20230711-15:23:11.036961000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:23:11.205493000 : Initiated logon request
+20230711-15:23:21.476759000 : Timed out waiting for logon response
+20230711-15:23:21.476824000 : Disconnecting
+20230711-15:23:21.477907000 : Initiated logon request
+20230711-15:23:41.707657000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:23:41.871471000 : Initiated logon request
+20230711-15:23:59.992225000 : Created session
+20230711-15:23:59.995026000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:24:00.149161000 : Initiated logon request
+20230711-15:24:10.398285000 : Timed out waiting for logon response
+20230711-15:24:10.398388000 : Disconnecting
+20230711-15:24:10.399468000 : Initiated logon request
+20230711-15:24:30.820141000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:24:30.975320000 : Initiated logon request
+20230711-15:24:40.475375000 : Timed out waiting for logon response
+20230711-15:24:40.475453000 : Disconnecting
+20230711-15:24:40.476509000 : Initiated logon request
+20230711-15:25:00.009637000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:25:00.159671000 : Initiated logon request
+20230711-15:26:57.355781000 : Created session
+20230711-15:26:57.358244000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:26:57.516716000 : Initiated logon request
+20230711-15:27:07.471866000 : Timed out waiting for logon response
+20230711-15:27:07.471950000 : Disconnecting
+20230711-15:27:07.473528000 : Initiated logon request
+20230711-15:27:27.485865000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:27:27.641074000 : Initiated logon request
+20230711-15:27:37.646161000 : Timed out waiting for logon response
+20230711-15:27:37.646238000 : Disconnecting
+20230711-15:27:37.647289000 : Initiated logon request
+20230711-15:27:57.129358000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:27:57.287211000 : Initiated logon request
+20230711-15:28:07.119915000 : Timed out waiting for logon response
+20230711-15:28:07.119989000 : Disconnecting
+20230711-15:28:07.121051000 : Initiated logon request
+20230711-15:28:27.035826000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:28:27.195252000 : Initiated logon request
+20230711-15:28:37.002417000 : Timed out waiting for logon response
+20230711-15:28:37.002499000 : Disconnecting
+20230711-15:28:37.003927000 : Initiated logon request
+20230711-15:28:57.078868000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:28:57.232979000 : Initiated logon request
+20230711-15:29:07.021804000 : Timed out waiting for logon response
+20230711-15:29:07.021877000 : Disconnecting
+20230711-15:29:07.022984000 : Initiated logon request
+20230711-15:29:27.043666000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:29:27.231401000 : Initiated logon request
+20230711-15:29:37.004127000 : Timed out waiting for logon response
+20230711-15:29:37.004201000 : Disconnecting
+20230711-15:29:37.005291000 : Initiated logon request
+20230711-15:29:57.375184000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:29:57.544839000 : Initiated logon request
+20230711-15:30:07.469137000 : Timed out waiting for logon response
+20230711-15:30:07.469210000 : Disconnecting
+20230711-15:30:07.470315000 : Initiated logon request
+20230711-15:30:39.140941000 : Created session
+20230711-15:30:39.143866000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:30:39.295565000 : Initiated logon request
+20230711-15:30:49.342505000 : Timed out waiting for logon response
+20230711-15:30:49.342570000 : Disconnecting
+20230711-15:30:49.343571000 : Initiated logon request
+20230711-15:31:09.260396000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:31:09.414965000 : Initiated logon request
+20230711-15:36:58.399100000 : Created session
+20230711-15:36:58.401816000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:36:58.556425000 : Initiated logon request
+20230711-15:37:08.001758000 : Timed out waiting for logon response
+20230711-15:37:08.001820000 : Disconnecting
+20230711-15:37:08.002798000 : Initiated logon request
+20230711-15:37:28.124731000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:37:28.277717000 : Initiated logon request
+20230711-15:37:38.465106000 : Timed out waiting for logon response
+20230711-15:37:38.465184000 : Disconnecting
+20230711-15:37:38.466303000 : Initiated logon request
+20230711-15:37:58.785252000 : Connecting to fixdemo2.fxcorporate.com on port 80 (Source :0)
+20230711-15:37:58.979440000 : Initiated logon request
+20230711-15:38:08.844547000 : Timed out waiting for logon response
+20230711-15:38:08.844594000 : Disconnecting
+20230711-15:38:08.881359000 : Initiated logon request

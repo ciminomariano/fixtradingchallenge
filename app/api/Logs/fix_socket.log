@@ -1,0 +1,226 @@
+2023-07-11 09:59:43,465 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:09:44,092 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:29:32,289 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:31:09,385 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 10:34:41,451 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 10:35:33,800 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 10:36:00,700 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 10:39:49,412 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:40:26,070 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:41:18,280 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:42:55,983 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:45:51,855 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:46:30,209 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:47:02,446 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:51:55,211 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:53:23,751 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:55:15,058 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:56:02,704 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 10:56:25,825 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:01:29,509 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:03:21,752 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:04:05,091 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:10:25,999 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:22:33,083 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:23:09,419 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:24:34,058 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:27:12,429 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:28:06,963 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:30:22,591 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:31:46,672 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:31:59,325 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:34:24,961 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ClientLocal.cfg not found
+2023-07-11 11:36:40,525 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ClientLocal.cfg not found
+2023-07-11 11:37:50,127 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ClientLocal.cfg not found
+2023-07-11 11:40:28,985 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:40:48,220 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:46:55,537 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:47:16,125 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:47:34,525 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 11:54:56,510 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 11:56:30,326 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File api/clientLocal.cfg not found
+2023-07-11 11:57:08,356 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 11:58:32,513 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 11:59:37,138 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:00:57,206 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 12:01:14,202 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 12:03:01,290 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: /api/FIX44.xml: Could not parse data dictionary file
+2023-07-11 12:04:30,044 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:04:54,823 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal_test.cfg not found
+2023-07-11 12:06:03,713 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ../tests/tclientLocal_test.cfg not found
+2023-07-11 12:09:52,583 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:10:07,216 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:10:27,801 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:11:52,050 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:16:38,265 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:17:18,905 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:17:55,155 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:20:05,255 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:22:41,251 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:23:11,037 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:23:59,995 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:26:57,358 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:30:39,143 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:31:29,991 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:32:25,625 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:36:58,401 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 12:42:16,816 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:42:17,103 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:43:28,407 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:44:00,087 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:45:23,561 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:45:48,809 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:51:08,064 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:51:50,644 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:52:51,961 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:54:45,194 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:55:39,915 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:57:42,344 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 12:59:55,684 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 13:01:02,232 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 13:03:34,370 - api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 13:10:00,514 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:12:57,347 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:14:36,348 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:39:52,448 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:41:35,421 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:44:44,601 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:46:20,002 - api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:54:40,440 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 13:57:18,469 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:12:25,179 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:35:22,259 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:44:25,287 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:44:59,986 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:45:19,708 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:46:04,321 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 14:59:42,606 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 19:17:55,421 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File app/api/clientLocal.cfg not found
+2023-07-11 19:19:41,344 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 19:20:11,812 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: /app/api/FIX44.xml: Could not parse data dictionary file
+2023-07-11 19:21:56,008 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 19:59:31,767 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 19:59:51,678 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 20:01:34,153 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 20:48:44,935 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:10:22,328 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:28:46,517 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 21:29:56,926 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /app/api/clientLocal.cfg not found
+2023-07-11 21:30:50,022 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 21:31:35,994 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: /app/api/FIX44.xml: Could not parse data dictionary file
+2023-07-11 21:31:55,321 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: /app/api/FIX44.xml: Could not parse data dictionary file
+2023-07-11 21:33:55,581 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ../clientLocal.cfg not found
+2023-07-11 21:34:32,624 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ./clientLocal.cfg not found
+2023-07-11 21:34:38,860 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ./clientLocal.cfg not found
+2023-07-11 21:34:58,516 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 21:38:34,461 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/endpoints/../api/clientLocal.cfg not found
+2023-07-11 21:39:42,355 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File ../clientLocal.cfg not found
+2023-07-11 21:40:20,365 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 21:45:25,825 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 21:46:27,135 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:48:00,321 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:50:10,696 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:54:15,793 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:56:38,363 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 21:58:31,839 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:04:44,014 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:06:29,834 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:09:39,551 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:30:29,876 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:30:47,029 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: /app/api/FIX44.xml: Could not parse data dictionary file
+2023-07-11 22:32:52,295 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:41:46,526 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:42:45,528 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:43:28,033 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 22:44:42,049 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 22:45:04,542 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 22:45:44,749 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: FIX44.xml: Could not parse data dictionary file
+2023-07-11 22:47:32,085 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 22:48:35,097 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/clientLocal.cfg not found
+2023-07-11 22:49:10,410 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/../clientLocal.cfg not found
+2023-07-11 22:49:20,299 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/../clientLocal.cfg not found
+2023-07-11 22:50:01,570 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/../clientLocal.cfg not found
+2023-07-11 22:51:07,463 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/app/api/../clientLocal.cfg not found
+2023-07-11 22:52:25,323 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:52:25,580 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 22:52:32,731 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:53:41,540 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 22:54:52,145 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 22:55:33,129 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 22:56:20,548 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File app/api/clientLocal.cfg not found
+2023-07-11 22:56:32,532 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:58:46,555 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 22:59:04,380 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/clientLocal.cfg not found
+2023-07-11 23:00:30,873 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File clientLocal.cfg not found
+2023-07-11 23:01:15,386 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/clientLocal.cfg not found
+2023-07-11 23:01:19,435 - app.api.services.fix_socket_service - ERROR - Failed to start FIX initiator: Configuration failed: File /home/mariano/python/fixtradingchallenge/clientLocal.cfg not found
+2023-07-11 23:01:32,819 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:02:40,234 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:04:08,796 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:04:18,801 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:04:34,215 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:05:23,954 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:05:37,300 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:06:20,239 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:07:25,670 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:08:02,446 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-11 23:18:02,996 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:30:58,860 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:50:42,869 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:53:37,284 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:54:20,819 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:55:40,978 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 10:56:41,958 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 11:00:09,180 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 11:02:33,163 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 11:03:47,900 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 11:10:32,068 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:11:12,989 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:11:59,757 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:11:59,759 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:12:13,928 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:12:13,929 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:12:57,896 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:14:45,379 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:14:45,382 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:15:15,481 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:17:00,278 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:17:00,279 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:18:52,063 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:20:37,755 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:21:26,569 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:23:46,627 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:33:35,942 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:34:09,522 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:34:52,969 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:35:44,926 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:35:44,928 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:36:59,592 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:40:00,510 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:40:43,825 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:40:43,827 - utils.logger - ERROR - Failed to send message toAdmin: 'Application' object has no attribute 'sessionID'
+2023-07-12 11:41:50,928 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 11:58:18,318 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:00:11,641 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:02:56,142 - utils.logger - INFO - Config file path: /home/mariano/python/fixtradingchallenge/app/api/clientLocal.cfg
+2023-07-12 12:02:56,218 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:03:29,771 - utils.logger - INFO - Config file path: /home/mariano/python/fixtradingchallenge/app/api/clientLocal.cfg
+2023-07-12 12:03:29,838 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:05:07,865 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:06:55,403 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:25:51,381 - utils.logger - INFO - FIX initiator started successfully
+2023-07-12 12:27:17,549 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 12:28:04,183 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 12:30:37,251 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 12:33:40,013 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 12:35:15,561 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 12:39:16,522 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:13:30,156 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:15:30,890 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:15:50,345 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:20:31,222 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:21:37,982 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:57:20,121 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 13:59:04,354 - services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 14:04:31,505 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully
+2023-07-12 14:08:20,082 - app.api.services.fix_socket_service - INFO - FIX initiator started successfully

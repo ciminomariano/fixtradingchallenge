@@ -89,7 +89,7 @@ To connect to the FIX API, there are some steps that you must complete. Detailed
     FIX API Documentation https://tradermade.com/docs/fix-api
     FIX Protocol https://www.fixtrading.org/what-is-fix/
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file to contribute to the project.
 

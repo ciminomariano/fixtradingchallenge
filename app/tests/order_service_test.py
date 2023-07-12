@@ -1,7 +1,6 @@
 from unittest.mock import Mock
 from app.api.services.order_service import create_order
 
-
 def test_create_order():
     # Create a mock gateway
     gateway = Mock()
