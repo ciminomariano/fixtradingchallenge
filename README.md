@@ -79,15 +79,33 @@ You just need to import the collection on Postman
 Check the response to verify the success or failure of the order.
 ## Running Automated tests
 
-This pro
+This project has automated tests to run them
+go to project folder and run the command
+pytest on terminal
+You should be able to see the next logs on the console
+
+(.venv) mariano@mariano-Nitro-AN515-55:~/python/fixtradingchallenge$ pytest
+===================================================================================================== test session starts =====================================================================================================
+platform linux -- Python 3.8.12, pytest-7.4.0, pluggy-1.2.0
+rootdir: /home/mariano/python/fixtradingchallenge
+plugins: anyio-3.7.1
+collected 5 items                                                                                                                                                                                                             
+
+app/tests/fix_socket_service_test.py ..                                                                                                                                                                                 [ 40%]
+app/tests/integration_test.py .                                                                                                                                                                                         [ 60%]
+app/tests/order_service_test.py .                                                                                                                                                                                       [ 80%]
+app/tests/routes_test.py .                                                                                                                                                                                              [100%]
+
+
+
 ## Documentation
 
 
 To connect to the FIX API, there are some steps that you must complete. Detailed documentation and API references can be found in the following links:
 
     
-    Technical Documentation Of The Project 
-    Video Tutorial
+    Technical Documentation Of The Project https://docs.google.com/document/d/1gWr_uH8S1H7mPKS7_m_eqK1KJEOv8UwUHv-81CYSkbQ/edit?usp=sharing
+    Video Tutorial 
     FIX API Documentation https://tradermade.com/docs/fix-api
     FIX Protocol https://www.fixtrading.org/what-is-fix/
 
