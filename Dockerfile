@@ -10,10 +10,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copia el código de tu aplicación al directorio de trabajo en el contenedor.
 COPY app /app
 
+WORKDIR /app/api
 # Establece el directorio de trabajo en el contenedor.
 
 # Expone el puerto en el que se ejecuta tu aplicación.
 EXPOSE 8000
 
 # Define el comando para ejecutar tu aplicación.
+#CMD ["uvicorn", "main:app", "--reload", "--ssl-keyfile", "private.key", "--ssl-certfile", "certificate.crt"]
 CMD ["uvicorn", "main:app", "--reload"]
+
