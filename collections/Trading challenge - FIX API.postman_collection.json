@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "bbb5d885-663c-43b2-b28b-6e9bc3d3046f",
+		"name": "Trading challenge - FIX API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5058637",
+		"_collection_link": "https://b2b-tef.postman.co/workspace/Fix-Trading-Challenge~e01bc879-4c98-47a6-a6e0-3804e10a207f/collection/5058637-bbb5d885-663c-43b2-b28b-6e9bc3d3046f?action=share&creator=5058637&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Place Order - Market Buy Heroku",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "1234",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "D103452324",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "SenderCompID",
+						"value": "D103452324_client1",
+						"type": "text"
+					},
+					{
+						"key": "SocketConnectPort",
+						"value": "80",
+						"type": "text"
+					},
+					{
+						"key": "SocketConnectHost",
+						"value": "fixdemo2.fxcorporate.com",
+						"type": "text"
+					},
+					{
+						"key": "TargetCompID",
+						"value": "FXCM",
+						"type": "text"
+					},
+					{
+						"key": "TargetSubID",
+						"value": "U100D1",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://fixdemo2.fxcorporate.com",
+					"protocol": "http",
+					"host": [
+						"fixdemo2",
+						"fxcorporate",
+						"com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Place Order - Localhost",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "1234",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "D103452324",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "SenderCompID",
+						"value": "D103452324_client1",
+						"type": "text"
+					},
+					{
+						"key": "SocketConnectPort",
+						"value": "80",
+						"type": "text"
+					},
+					{
+						"key": "SocketConnectHost",
+						"value": "fixdemo2.fxcorporate.com",
+						"type": "text"
+					},
+					{
+						"key": "TargetCompID",
+						"value": "FXCM",
+						"type": "text"
+					},
+					{
+						"key": "TargetSubID",
+						"value": "U100D1",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://fixdemo2.fxcorporate.com",
+					"protocol": "http",
+					"host": [
+						"fixdemo2",
+						"fxcorporate",
+						"com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Live Currencies List Trader Made",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://marketdata.tradermade.com/api/v1/live_currencies_list?api_key=5wCZtNynmAXydGt4vjhT",
+					"protocol": "https",
+					"host": [
+						"marketdata",
+						"tradermade",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"live_currencies_list"
+					],
+					"query": [
+						{
+							"key": "api_key",
+							"value": "5wCZtNynmAXydGt4vjhT"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -84,6 +84,8 @@ Make a POST request to the following endpoint:
 
 In the folder Collections of the project there is a Postman
 collection to test the api.
+The link is the next
+
 
 
 As the API is deployed In
