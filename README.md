@@ -77,7 +77,9 @@ https://github.com/ciminomariano/fixtradingchallenge/tree/main/collections
 You just need to import the collection on Postman
 
 Check the response to verify the success or failure of the order.
+## Running Automated tests
 
+This pro
 ## Documentation
 
 
